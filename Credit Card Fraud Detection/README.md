@@ -15,6 +15,7 @@ Deployment: Implementing the model to monitor and flag suspicious transactions i
 
 ## Installation
 Clone this repository to your local machine: git clone  https://github.com/praful-prakash-goel/Encryptix/tree/main/Credit%20Card%20Fraud%20Detection
+
 Install the required dependencies: (pip install -r requirements.txt)
 
 ## Usage
