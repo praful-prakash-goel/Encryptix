@@ -10,3 +10,10 @@ Data Preprocessing : Creating meaningful features that improves prediction score
 Model Development : Train and evaluate different Machine Learning models to predict churn.
 
 Model Evaluation : Testing different trained models by checking their precision, recall, accuracy and F1 score to chose the most suitable model.
+
+## Installation
+Clone this repository to your local machine: git clone https://github.com/praful-prakash-goel/Encryptix/edit/main/Customer%20Churn%20Prediction
+Install the required dependencies: (pip install -r requirements.txt)
+
+## Usage
+In your terminal open the file location in which you have installed all the resources related to this project and type the command :  (streamlit run Churn.py)
