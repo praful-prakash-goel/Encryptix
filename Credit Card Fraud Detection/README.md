@@ -12,3 +12,6 @@ Model Training: Using supervised learning algorithms to train the model on histo
 Evaluation: Assessing model performance using metrics such as accuracy, precision, recall, and F1-score.
 
 Deployment: Implementing the model to monitor and flag suspicious transactions in real-time.
+
+## Installation
+Clone this repository to your local machine: git clone
