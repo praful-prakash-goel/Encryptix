@@ -13,6 +13,7 @@ Model Evaluation : Testing different trained models by checking their precision,
 
 ## Installation
 Clone this repository to your local machine: git clone https://github.com/praful-prakash-goel/Encryptix/edit/main/Customer%20Churn%20Prediction
+
 Install the required dependencies: (pip install -r requirements.txt)
 
 ## Usage
